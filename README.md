@@ -1,7 +1,6 @@
 # image_combiner
 
-A side project to combine two images.(Rust_side_Projects)
-
+Rust executable to combine two images.
 
 #### How to
 
